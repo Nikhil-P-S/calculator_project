@@ -1,4 +1,3 @@
 ﻿print("Hello Github")
 print("hello")
-print("good morning")
-print("hi")
+
